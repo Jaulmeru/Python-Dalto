@@ -15,3 +15,22 @@ print(f"Funcion set(<lista>) crea {type(conjunto)}")
 subconjunto = frozenset(["dato_sub_0","dato_sub_1"]) 
 conjunto = {"dato_0",subconjunto,"dato_1"}
 print(conjunto)
+print("-------------------------------")
+
+# Teoria de conjuntos 
+conjunto_a = {1,2,3,7,11,13} 
+conjunto_b = {2,11,13}
+
+# Verificar si b es subconjunto de a
+resultado = conjunto_b.issubset(conjunto_a)
+resultado = conjunto_b <= conjunto_a
+print(f"b es un subconjunto de a?: {resultado}")
+
+# Verificar si b es superconjunto de a
+resultado = conjunto_b.issuperset(conjunto_a)
+resultado = conjunto_b > conjunto_a
+print(f"b es un superconjunto de a?: {resultado}")
+
+# Verificar si no tienen ningun valor en comun
+resultado = conjunto_b.isdisjoint(conjunto_a)
+print(f"a y b NO comparten ningun valor?: {resultado}")
