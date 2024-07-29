@@ -12,3 +12,4 @@ print(f"Definicion sin parentesis crea {type(tupla)}")
 tupla = tuple(["dato_0","dato_1","dato_2"])
 print(f"Funcion tuple(<lista>) crea {type(tupla)}")
 
+print(f"Valor hash: {hash(tupla)}")
