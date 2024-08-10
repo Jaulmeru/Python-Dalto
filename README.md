@@ -28,6 +28,7 @@ Primero, quiero dejar aqui un pequeño agradecimiento a Dalto por lo que realiza
 - Iteracion con bucle for
 - Funciones build in
 - Definir funciones propias
+- Funciones lambda
 
 *No todo esta anotado en el repositorio, solamente lo que yo fui anotando y practicando para mi mismo, ya que como tengo unas nociones de programación no me detuve en lo que considere basico.*
 

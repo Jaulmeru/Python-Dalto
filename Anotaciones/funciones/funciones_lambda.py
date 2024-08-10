@@ -1,4 +1,7 @@
 # Las funciones lambda son una forma de crear una sola expresion sin necesidad de crear un bloque de funcion completo
+# lambda <arg>: <declaracion con arg>
+# Retorna lo que se haga en la declaracion
+
 
 # Ejemplo funcion que devuelve el cuadrado de un numero
 cuadrado = lambda x: x**2
