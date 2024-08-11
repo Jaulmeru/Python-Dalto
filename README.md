@@ -29,6 +29,10 @@ Primero, quiero dejar aqui un pequeño agradecimiento a Dalto por lo que realiza
 - Funciones build in
 - Definir funciones propias
 - Funciones lambda
+- Ejercicios prácticos 2
+### Semi avanzado
+- Modulos
+- Enrutamiento de modulos
 
 *No todo esta anotado en el repositorio, solamente lo que yo fui anotando y practicando para mi mismo, ya que como tengo unas nociones de programación no me detuve en lo que considere basico.*
 
