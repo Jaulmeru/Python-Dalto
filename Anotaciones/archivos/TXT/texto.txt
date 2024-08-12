@@ -1,0 +1,9 @@
+Esto se va a escribir y va a borrar lo demas
+Primera linea de writelines
+Segunda linea de writelines
+Esto se va a escribir pero no va a borrar lo demas
+Primera linea de writelines añadida
+Segunda linea de writelines añadida
+Esto se va a escribir pero no va a borrar lo demas
+Primera linea de writelines añadida
+Segunda linea de writelines añadida

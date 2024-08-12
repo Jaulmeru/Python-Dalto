@@ -33,6 +33,9 @@ Primero, quiero dejar aqui un pequeño agradecimiento a Dalto por lo que realiza
 ### Semi avanzado
 - Modulos
 - Enrutamiento de modulos
+- Paquetes
+- Leer de TXT
+- Escribir en TXT
 
 *No todo esta anotado en el repositorio, solamente lo que yo fui anotando y practicando para mi mismo, ya que como tengo unas nociones de programación no me detuve en lo que considere basico.*
 
