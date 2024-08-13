@@ -37,6 +37,8 @@ Primero, quiero dejar aqui un pequeño agradecimiento a Dalto por lo que realiza
 - Leer de TXT
 - Escribir en TXT
 - Leer CSV con Pandas
+- Problemas con archivos
+
 
 *No todo esta anotado en el repositorio, solamente lo que yo fui anotando y practicando para mi mismo, ya que como tengo unas nociones de programación no me detuve en lo que considere basico.*
 
